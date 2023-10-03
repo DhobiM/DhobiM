@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DhobiM (Martin)
+- 👀 I’m interested in c# development, maybe game development
+- 🌱 I’m currently learning everythink that I dont know yet
